@@ -1,0 +1,10 @@
+[package]
+name = "goon"
+version = "0.1.0"
+authors = ["Moriarty <m0riarty@ya.ru>"]
+
+[dependencies]
+threadpool = "1.0"
+rustc-serialize = "*"
+hyper = "0.9"
+eventual = "0.1.7"
